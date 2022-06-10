@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/njut/static/css/main.073c9b0a.css",
+    "main.js": "/njut/static/js/main.fce3eca6.js",
+    "static/js/787.37cb3869.chunk.js": "/njut/static/js/787.37cb3869.chunk.js",
+    "static/media/stock.jpg": "/njut/static/media/stock.725657aa9e8c5e4054eb.jpg",
+    "index.html": "/njut/index.html",
+    "main.073c9b0a.css.map": "/njut/static/css/main.073c9b0a.css.map",
+    "main.fce3eca6.js.map": "/njut/static/js/main.fce3eca6.js.map",
+    "787.37cb3869.chunk.js.map": "/njut/static/js/787.37cb3869.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fce3eca6.js"
+  ]
+}
